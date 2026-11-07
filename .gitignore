@@ -1,0 +1,11 @@
+# Java Heap Dump
+*.hprof
+
+# Build files
+build/
+.gradle/
+.idea/
+*.iml
+
+# Local environment
+.env
